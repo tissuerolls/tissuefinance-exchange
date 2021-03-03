@@ -1982,7 +1982,7 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit":
+"@tissueswap/uikit@goosedefi/goose-uikit":
   version "0.10.2"
   resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/068e017bb0f927c566a43596fb555a5818e13154"
   dependencies:
@@ -2385,6 +2385,17 @@
     dom-accessibility-api "^0.5.4"
     lz-string "^1.4.4"
     pretty-format "^26.6.2"
+
+"@tissueswap/uikit@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@tissueswap/uikit/-/uikit-1.0.1.tgz#025fc3aaa7c64cd7b13ae2a2054a2b17258812dd"
+  integrity sha512-/KUDPhtX8CLPHTsxnXP5WqmuyAhp2KYxrzPB5CvOZ07y5+h4HBOEnEsFTl3qJQMC2KXCqXshqMIvAETx2RtdRg==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 "@types/anymatch@*":
   version "1.3.1"
